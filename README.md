@@ -2,8 +2,7 @@
 
 _This is a simple blogging site created with Flask as backend._
 
-Oracle database has been used.
-This uses two tables, One for storing user's information (user_info) and another one to store the articles posted by the users (articles).
+This uses two tables, One for storing user's information (user_info) and another one to store the articles posted by the users (articles). (Oracle Database)
 
 To create `user_info` table, use the following syntax:
 
