@@ -1,4 +1,4 @@
-# A simple Site to share articles using python's Flask
+# A simple Site to post articles using python's Flask
 
 _This is a simple blogging site created with Flask as backend._
 
